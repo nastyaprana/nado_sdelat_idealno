@@ -10,6 +10,7 @@ html {
 
 body {
   display: flex;
+  flex-direction: column;
   height: inherit;
   min-width: 800px;
   margin: 0;
