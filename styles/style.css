@@ -28,13 +28,11 @@
   text-transform: uppercase;
   color: black;
   max-width: 739px;
-  /* max-height: 408px; */
   text-align: center;
   margin: 0 auto;
   margin-top: 60px;
   z-index: 2;
   position: static;
-  /* margin-bottom: 434px; */
 }
 
 .page_title::after {
